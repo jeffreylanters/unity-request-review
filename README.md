@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/elraccoone/unity-promises/master/.github/WIKI/logo.jpg" height="100px"></br>
+<img src="https://raw.githubusercontent.com/elraccoone/unity-request-review/master/.github/WIKI/logo.jpg" height="100px"></br>
 
-# Promises
+# Request Review
 
 [![npm](https://img.shields.io/badge/upm-1.0.1-232c37.svg?style=for-the-badge)]()
 [![license](https://img.shields.io/badge/license-Custom-%23ecc531.svg?style=for-the-badge)](./LICENSE.md)
 [![npm](https://img.shields.io/badge/sponsor-donate-E12C9A.svg?style=for-the-badge)](https://paypal.me/jeffreylanters)
-[![npm](https://img.shields.io/github/stars/elraccoone/unity-promises.svg?style=for-the-badge)]()
+[![npm](https://img.shields.io/github/stars/elraccoone/unity-request-review.svg?style=for-the-badge)]()
 
 Provides a basic implementation for requesting app reviews for mobile apps on the Apple AppStore and Google PlayStore.
 
