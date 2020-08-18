@@ -49,7 +49,7 @@ public class Main {
 }
 ```
 
-## On iOS 10.3 or newer
+## iOS 10.3 or newer notes
 
 The module tells StoreKit to ask the user to rate or review your app, if appropriate.
 
@@ -57,13 +57,13 @@ Although you should call this method when it makes sense in the user experience 
 
 When you call this method while your app is still in development mode, a rating/review request view is always displayed so that you can test the user interface and experience. However, this method has no effect when you call it in an app that you distribute using TestFlight.
 
-## On iOS 10.2 or lower
+## iOS 10.2 or lower notes
 
 **Coming soon!**
 
 The implemantion is still in development!
 
-## On Android
+## Android notes
 
 **Coming soon!**
 
