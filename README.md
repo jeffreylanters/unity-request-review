@@ -69,10 +69,10 @@ When you call this method while your app is still in development mode, a rating/
 
 **Coming soon!**
 
-The implemantion is still in development!
+Support for this platform has yet to be implemented.
 
 ## Android notes
 
 **Coming soon!**
 
-The implemantion is still in development!
+Support for this platform has yet to be implemented.
