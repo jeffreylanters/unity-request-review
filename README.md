@@ -6,9 +6,9 @@
 
 # Request Review
 
-[![npm](https://img.shields.io/badge/upm-1.0.1-232c37.svg?style=for-the-badge)]()
-[![npm](https://img.shields.io/github/stars/elraccoone/unity-request-review.svg?style=for-the-badge)]()
-[![npm](https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge)]()
+[![openupm](https://img.shields.io/npm/v/nl.elraccoone.request-review?label=UPM&registry_uri=https://package.openupm.com&style=for-the-badge&color=232c37)](https://openupm.com/packages/nl.elraccoone.request-review/)
+[![](https://img.shields.io/github/stars/elraccoone/unity-request-review.svg?style=for-the-badge)]()
+[![](https://img.shields.io/badge/build-passing-brightgreen.svg?style=for-the-badge)]()
 
 Provides a basic implementation for requesting app reviews for mobile apps on the Apple AppStore and Google PlayStore.
 
