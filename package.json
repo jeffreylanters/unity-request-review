@@ -1,7 +1,7 @@
 {
   "name": "nl.elraccoone.request-review",
   "displayName": "Request Review",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "unity": "2020.1",
   "description": "Provides a basic implementation for requesting app reviews for mobile apps on the Apple AppStore and Google PlayStore.",
   "type": "library",
