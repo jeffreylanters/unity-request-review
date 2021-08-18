@@ -3,5 +3,10 @@
   "displayName": "Request Review",
   "version": "1.0.1",
   "unity": "2020.1",
-  "description": "Provides a basic implementation for requesting app reviews for mobile apps on the Apple AppStore and Google PlayStore."
+  "description": "Provides a basic implementation for requesting app reviews for mobile apps on the Apple AppStore and Google PlayStore.",
+  "type": "library",
+  "hideInEditor": false,
+  "documentationUrl": "https://github.com/jeffreylanters/unity-request-review",
+  "changelogUrl": "https://github.com/jeffreylanters/unity-request-review/releases",
+  "licensesUrl": "https://github.com/jeffreylanters/unity-request-review/blob/master/LICENSE.md"
 }
